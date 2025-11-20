@@ -1,10 +1,5 @@
 # Ecommerce App using Echo
 
-
-
-![Workflow](https://github.com/mukulmantosh/go-ecommerce-app/actions/workflows/badge.yml/badge.svg)
-![Coverage](https://img.shields.io/badge/Coverage-60.6%25-yellow)
-
 We intend to develop an e-commerce application with a REST
 architecture using the Echo framework. Echo is a Go web framework
 known for its exceptional performance, extensibility, and
@@ -84,8 +79,6 @@ make build
 ```bash
 make test
 ```
-![test-app](./misc/gotest.gif)
-
 
 ## REST Examples
 
